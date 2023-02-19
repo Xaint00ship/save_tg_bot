@@ -1,0 +1,7 @@
+/.idea
+/messages.db
+/sqlite3.def
+/sqlite3.dll
+/sqlite3.exe
+/venv
+/__pycache__
